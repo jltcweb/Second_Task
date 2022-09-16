@@ -1,0 +1,18 @@
+
+#contact {
+    transform: scale(1.1);
+    background: #277BC0;
+}
+
+#contact a {
+    color: white;
+}
+
+.right-side div {
+    transform: scale();
+    background: white;
+}
+
+.right-side div a {
+    color: black;
+}
